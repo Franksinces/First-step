@@ -1,2 +1,2 @@
 # First-step
-My  first step forward programming.
+My  first step towards programming.
